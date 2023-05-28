@@ -4,7 +4,7 @@ This custom resume was built with HTML, [Tailwind CSS](https://tailwindcss.com/)
 
 ## Check Out My Finished Resume
 
-Hosted with Netlify & Mobile Responsive [Tyler Bryant - Resume](https://my-custom-resume.netlify.app/)
+Hosted with Netlify & Mobile Responsive [Tyler Bryant - Resume](https://tylerbryant.dev/)
 
 ## How to run it
 
