@@ -1,10 +1,10 @@
-## Hope You Enjoyed My Resume!
+## Thanks for checking out my resume!
 
 This custom resume was built with HTML, [Tailwind CSS](https://tailwindcss.com/), and the [Universal Résumé Template](https://github.com/WebPraktikos/universal-resume)
 
 ## Check Out My Finished Resume
 
-Hosted with Netlify & Mobile Responsive [Tyler Bryant - Resume](https://tylerbryant.dev/)
+Hosted with Netlify & Mobile Responsive [Zachary Stanford - Resume]https://zachstanford.com/)
 
 ## How to run it
 
