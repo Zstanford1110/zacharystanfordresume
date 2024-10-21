@@ -53,37 +53,60 @@
   </head>
 
   <body>
-    <main class="font-firago hyphens-manual">
+    <main class="font-firago print:font-sans hyphens-manual">
       <!-- Page -->
       <div
         class="p-6 mx-auto page max-w-2xl print:max-w-letter print:h-letter md:max-w-letter md:h-letter xsm:p-8 sm:p-9 md:p-10 bg-white"
       >
         <!-- Header -->
         <header
-          class="flex row-gap-5 flex-row flex-wrap items-center md:mb-0.5 border-b-2 border-opacity-50 border-gray-400"
+          class="flex flex-row flex-wrap justify-center items-center md:mb-0.5 print:mb-4 border-b-2 border-gray-400"
         >
           <!-- Name -->
           <h1
-            class="print:text-4xl lg:text-5xl md:text-4xl mr-auto text-4xl font-semibold text-gray-750 pb-px"
+            class="lg:text-5xl md:text-4xl text-4xl mb-1.5 font-semibold text-gray-700 pb-px"
           >
             Zachary Stanford
           </h1>
           <!-- End Name -->
 
-          <!-- Industry Title -->
-          <!-- <h2
-            id="industry-title"
-            class="print:text-2xl text-blue-700 font-sans self-center md:text-3xl text-2xl font-hairline pb-px"
-          >
-            Solutions Engineer
-          </h2>
-          End Industry Title -->
-      
+          <!-- Contacts Print Version -->
+          <section class="hidden print:block mb-2 first:mt-0" id="contact">
+            <!-- Contact Items -->
+            <ul
+              class="print:flex-row flex flex-wrap flex-col sm:flex-row justify-between gap-2 list-inside pr-7"
+            >
+              <!-- Email -->
+              <li class="leading-normal text-gray-700 text-md">
+                emailzach@zachstanford.com
+              </li>
+              <!-- End Email -->
+              <span class="select-none text-gray-600">•</span>
+              <!-- Phone -->
+              <li class="leading-normal text-gray-700 text-md">
+                850-304-4289
+              </li>
+              <!-- End Phone -->
+              <span class="select-none text-gray-600">•</span>
+              <!-- LinkedIn -->
+              <li class="leading-normal text-gray-700 text-md">
+                linkedin.com/zacharystanford
+              </li>
+              <!-- End LinkedIn -->
+              <span class="select-none text-gray-600">•</span>
+              <!-- Github -->
+              <li class="leading-normal text-gray-700 text-md">
+                github.com/Zstanford1110
+              </li>
+              <!-- End Github -->
+            </ul>
+          </section>
+          <!-- End Contacts Print Version -->
         </header>
         <!-- End Header -->
 
         <!-- Contact / Links -->
-        <section class="mb-4 first:mt-0" id="contact">
+        <section class="print:hidden mb-4 first:mt-0" id="contact">
           <h2
             class="mb-1 mt-2 md:mb-0 font-bold tracking-widest md:text-sm2 text-md text-gray-550"
           >
@@ -101,7 +124,7 @@
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i class="far fa-envelope text-blue-900"></i>
+                <i class="print:hidden far fa-envelope text-blue-900"></i>
                 emailzach@zachstanford.com
               </a>
             </li>
@@ -109,7 +132,7 @@
             <!-- Phone -->
             <li class="mt-1.5 leading-normal text-gray-700 text-md">
               <a href="tel:+18503044289">
-                <i class="fas fa-mobile-alt text-blue-900"></i>
+                <i class="print:hidden fas fa-mobile-alt text-blue-900"></i>
                 850-304-4289
               </a>
             </li>
@@ -122,7 +145,7 @@
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i class="fab fa-linkedin text-blue-900"></i>
+                <i class="print:hidden fab fa-linkedin text-blue-900"></i>
                 linkedin.com/zacharystanford
                 <span
                   class="inline-block text-gray-550 print:text-black font-normal print:hidden group-hover:text-gray-700 transition duration-100 ease-in"
@@ -139,7 +162,7 @@
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i class="fab fa-github text-blue-900"></i>
+                <i class="print:hidden fab fa-github text-blue-900"></i>
                 github.com/Zstanford1110
                 <span
                   class="inline-block text-gray-550 print:text-black font-normal print:hidden group-hover:text-gray-700 transition duration-100 ease-in"
