@@ -15,6 +15,35 @@ T-Mobile:
 	- Ensured compliance with Federal Government regulations and requirements from a Solutions Engineering perspective
 		- Worked with Legal Affairs, Bid Managers, Specialist Engineers, and Sales to produce the most optimal and compliant technical response to Government RFPs/RFQs
 	- Led a technical project for Public Sector Solutions Engineering that produced a RFP Intelligence Platform that reduced manual analysis and response generation by 20 hours per week per stakeholder
-		- Provided Director and Executive level insights into Government opportunities based on predicted ROI, complexity, and solution feasibility.
-		- I came up with the whole thing start to finish, doesn't matter if it ever worked or finished. In a smaller company where I had more control, it would have been done successfully. Talk a lot about this.
+		- Provided Director and Executive level insights into Enterprise and Government opportunities based on predicted ROI, complexity, and solution feasibility.
+		- Intelligence system leveraged LLMs and Gen AI to process, parse, and analyze exstensive RFP documents.
+		- Managed stakeholder expectations and feedback from multiple internal organizations
+		- Primary liasion of the Sales, Solutions, Customer Success, and Bid Management organizations to IT (AI Automation Engineers).
+		- I came up with the whole thing start to finish.
+		- Acted as a lead project manager representing the Director of Public Sector SE and VP of SE at T-Mobile.
+		- One of my greatest accomplishments while at T-Mobile
+	- Direct contributor to T-Mobile's only Federal Government Solutions Engineering
+		- #1 Performing SE Team out of all of Solutions Engineering at T-Mobile in 2025 with 500%+ revenue attainment 
+		- Assisted team in vastly exceeding revenue attainment quotas by 145%, 152%, and 500% (Verify this value) with significant growth across the last 3 years
+		- Team vastly outperformed expectations and established financial goals
+		- I directly contributed to a majority of the deals our team secured with the Federal Government, some individual deals netting millions of dollars over several years of partnership with the Federal Government
+	- Utilized Gen AI, LLMs (GPT-5), and localized scripting to automate data collection and the generation of customer facing technical reports and solution demonstrations, saving the team 10+ hours of weekly prep work so that they could spend more time in front of customers.
+		- Created a script using the JavaScript library Puppeteer with Python's Pandas to automate the manual capture of topographical coverage maps in bulk to decrease response times to customer queries to hours instead of days.
+
+
+Samsung:
+	- Specialized in creating and facilitating live technical demonstrations of comprehensive mobility solutions for enterprise and SMB customers.
+		- Included all aspects of the technical stack, custom tailored to the customer's environment, such as SaaS, connectivit solutions, and devices.
+		- Visited customer locations to fully understand their current configurations and the pain points that they wanted to address.
+	- Provided exstensive emergency post-sales support to a major Enteprise customer, Coca-Cola, which resulted in optimizing the customer's expenses and retaining their business with Samsung.
+		- One of the major bottling subsidiaries within Coca-Cola was facing immense data overages by over $30,000 on their monthly bills with our partnered wireless provider. 
+		- I arranged a meeting between Samsung's and our carrier's technical support and the C-Level of this bottler and their IT operations leadership.
+		- Established a daily cadence with the customer's IT operations to ensure that they were fully informed by our efforts.
+		- Faciliated widespread device data collection leveraging Samsung's mobile device management SaaS solutions to isolate the root cause of the exorbant data usage, which ended up being the Google Play Store repeatedly updating the same apps over and over.
+		- Recruited a technical support team at Google to assist with addressing the issue.
+		- Led to the discovery of an never before identified bug in Google's rollout of a specific software version on their app store.
+		- Performed a gradual rollout of Google's patched software to the customer's devices until the issue was fully resolved and data usage was returned to normal levels.
 		
+		
+LinkedIn Search Booleans
+- ("Sales Engineer" OR "Solutions Engineer") AND NOT (Senior OR Sr OR Lead OR Principal OR Staff OR Manager OR Director)

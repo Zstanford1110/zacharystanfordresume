@@ -44,3 +44,6 @@ Samsung:
 		- Led to the discovery of an never before identified bug in Google's rollout of a specific software version on their app store.
 		- Performed a gradual rollout of Google's patched software to the customer's devices until the issue was fully resolved and data usage was returned to normal levels.
 		
+		
+LinkedIn Search Booleans
+- ("Sales Engineer" OR "Solutions Engineer") AND NOT (Senior OR Sr OR Lead OR Principal OR Staff OR Manager OR Director)

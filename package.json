@@ -15,6 +15,8 @@
   "scripts": {
     "serve": "concurrently \"postcss ./tailwind.css -o docs-default/build.css --watch\"  \"live-server ./docs-default \"",
     "solutions": "concurrently \"postcss ./tailwind.css -o docs-solutions-engineer/build.css --watch\"  \"live-server ./docs-solutions-engineer \"",
+    "elsevier": "concurrently \"postcss ./tailwind.css -o docs-solutions-engineer/build.css --watch\"  \"live-server ./docs-custom-resumes/elsevier \"",
+    "atlassian": "concurrently \"postcss ./tailwind.css -o docs-solutions-engineer/build.css --watch\"  \"live-server ./docs-custom-resumes/atlassian \"",
     "data": "concurrently \"postcss ./tailwind.css -o docs-data-engineer/build.css --watch\"  \"live-server ./docs-data-engineer \"",
     "build": "cross-env NODE_ENV=build postcss ./tailwind.css -o ./docs/build.css"
   },
